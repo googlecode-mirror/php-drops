@@ -1,4 +1,4 @@
-[http://php-drops.blogspot.com/ http://hasan-codes.googlecode.com/files/logo.jpg]
+[http://php-drops.blogspot.com/ http://php-drops.googlecode.com/files/logo.jp]
 
 = Introduction =
 

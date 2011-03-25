@@ -1,5 +1,3 @@
-[http://php-drops.blogspot.com/ http://php-drops.googlecode.com/files/logo.jpg]
-
 = Introduction =
 
 PHP Drops is a PHP blog, started 16th February 2011 by Md Murtuza Hasan Mallick, to make the life of a programmer easy. It contains many useful PHP source codes of daily use. Currently its still in a very novice stage, but aiming to go high. This will contain a very flexible repository of various kinds of useful code. Starting from code to convert a colored image to black and white, to how to index your page in search engines. Apart from plain PHP or javascript, there are utility tips of optimizing the performance of a website built in PHP.

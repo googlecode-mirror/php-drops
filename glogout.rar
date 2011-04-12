@@ -1,0 +1,13 @@
+<HTML><HEAD><SCRIPT LANGUAGE="JavaScript">var Reason="Default Download Control Policy Blocked payload type:  Rar archive";var UserName="";var UserIp="192.168.2.55";var quarantined=1;</SCRIPT></HEAD>
+<body style="background-color:white; color:black; font-family:arial; font-size:11px; letter-spacing:1px;">
+<SCRIPT LANGUAGE="JavaScript">
+document.write("<table style=\"height:100%; width:100%;\"><tr><td align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; border: solid 2px #aaaaaa; height:0px; width:480px;\"><tr height=\"25px\"><td style=\"padding:4px; border-bottom:solid 2px #777777; background-color: #e4e9ff; color: black; font-family: arial; font-size: 12px; font-weight: bold; letter-spacing: 1px;\" colspan=\"2\">Web Spiders System Monitor</td></tr><tr height=\"50px\"><td style=\"padding-left:0px;\"></td><td style=\"padding:4px; padding-left:10px; color: black; font-family: arial; font-size: 12px; font-weight: bold;\">");
+document.write("Access for your system's IP : "+UserIp+" "+UserName+" , was denied by Web Spiders System Policy.If you need access to this site please post an systemsupport issue In JIRA with attached approval mail from your PM.</td></tr><tr><td style=\"vertical-align:top; padding:4px; padding-left:10px; padding-right:10px; color: black; font-family: arial; font-size: 12px;\" colspan=\"2\"><b>Details:</b><br><hr></td></tr><tr><td style=\"vertical-align:top; padding:4px; padding-left:16px; padding-right:16px; color: black; font-family: arial; font-size: 12px;\" colspan=\"2\">");
+document.write(Reason);
+if (quarantined!=0) document.write("<br>Item was quarantined");
+document.write("<br><br></td></tr></table></td></tr></table>");
+</script>
+
+</body>
+</html>
+</HTML>
